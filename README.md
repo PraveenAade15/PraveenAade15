@@ -1,3 +1,7 @@
+ ## About
+ An independent and self-motivated Engineering graduate with good programming and Android Skills A Strong link between theory and practical 
+  </br>
+  
 * 👋 I’m Praveen Aade
 * 🌱 I’m currently learning Android Development
 * 📫 My Portfolio: https://praveenaade15.github.io/PraveenPortfolio/;
